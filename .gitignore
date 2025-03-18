@@ -2,4 +2,5 @@
 .ipynb_checkpoints/
 node_modules/
 
-node_modules.DS_Store
+node_modules
+.DS_Store

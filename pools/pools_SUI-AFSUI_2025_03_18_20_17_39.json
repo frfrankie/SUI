@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0xa528b26eae41bcfca488a9feaa3dca614b2a1d9b9b5c78c256918ced051d4c50",
+    "poolType": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb::pool::Pool<0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI, 0x2::sui::SUI>",
+    "poolName": "AFSUI-SUI[2]",
+    "poolNameUnique": "afSUI-SUI[2]",
+    "coinTypeA": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+    "coinTypeB": "0x2::sui::SUI",
+    "coinAmountA": "648025997815386",
+    "coinAmountB": "738189735420613",
+    "current_sqrt_price": "18840320906274002982",
+    "current_tick_index": 422,
+    "fee_growth_global_a": "3701371989777104",
+    "fee_growth_global_b": "3779937759617289",
+    "fee_protocol_coin_a": "43200703624",
+    "fee_protocol_coin_b": "47011072380",
+    "fee_rate": "100",
+    "is_pause": false,
+    "liquidity": "118861271924839818",
+    "tickSpacing": 2,
+    "currentTickIndex": 422,
+    "currentPrice": "1.043126903880554248289116681478221997264748263703217507750567435",
+    "currentSqrtPrice": "18840320906274002982",
+    "usdPoolAmount": "3167725.317469178836849225573253786101139311685124503442307455616"
+  }
+]

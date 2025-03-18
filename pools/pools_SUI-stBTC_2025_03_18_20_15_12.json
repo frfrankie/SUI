@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0x5a43a4388205053fc790d9139b3e7d5fb251f5fe21944d1bd2d6ed48a6f2f7ef",
+    "poolType": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb::pool::Pool<0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN, 0x2::sui::SUI>",
+    "poolName": "COIN-SUI[200]",
+    "poolNameUnique": "stBTC-SUI[200]",
+    "coinTypeA": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
+    "coinTypeB": "0x2::sui::SUI",
+    "coinAmountA": "3496",
+    "coinAmountB": "8961405887",
+    "current_sqrt_price": "11024661954937522356331",
+    "current_tick_index": 127866,
+    "fee_growth_global_a": "598910852899124",
+    "fee_growth_global_b": "180822722253214782350",
+    "fee_protocol_coin_a": "335",
+    "fee_protocol_coin_b": "68025431",
+    "fee_rate": "10000",
+    "is_pause": false,
+    "liquidity": "29261034",
+    "tickSpacing": 200,
+    "currentTickIndex": 127866,
+    "currentPrice": "35718.3277877240964991805374605922628981125595289438077721610996",
+    "currentSqrtPrice": "11024661954937522356331",
+    "usdPoolAmount": "22.87066572326778908648942756075396434445635378173540116416104456"
+  }
+]

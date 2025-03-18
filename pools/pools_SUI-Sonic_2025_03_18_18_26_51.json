@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0x3353c6ae880e383a7136b444d0af23eda0ca5ebc0d3a6dc48947f5870c5565ff",
+    "poolType": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb::pool::Pool<0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC, 0x2::sui::SUI>",
+    "poolName": "SONIC-SUI[200]",
+    "poolNameUnique": "Sonic-SUI[200]",
+    "coinTypeA": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
+    "coinTypeB": "0x2::sui::SUI",
+    "coinAmountA": "174913791034650",
+    "coinAmountB": "28070438019513",
+    "current_sqrt_price": "7444778381457286520",
+    "current_tick_index": -18149,
+    "fee_growth_global_a": "45198686038381605482",
+    "fee_growth_global_b": "5437106092959782365",
+    "fee_protocol_coin_a": "135135121383",
+    "fee_protocol_coin_b": "23112753756",
+    "fee_rate": "10000",
+    "is_pause": false,
+    "liquidity": "72783707062386",
+    "tickSpacing": 200,
+    "currentTickIndex": -18149,
+    "currentPrice": "0.1628786282713591485548766214232535772401264811059182057381815206",
+    "currentSqrtPrice": "7444778381457286520",
+    "usdPoolAmount": "126694.7502665150876995448483887606450470025715416559549770635018"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0x223671d0ede48df7c9daa4002056b241dbc28c30b3790d2319fd76b9290759ab",
+    "poolType": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb::pool::Pool<0xde2d3e02ba60b806f81ee9220be2a34932a513fe8d7f553167649e95de21c066::reap_token::REAP_TOKEN, 0x2::sui::SUI>",
+    "poolName": "REAP_TOKEN-SUI[200]",
+    "poolNameUnique": "REAP-SUI[200]",
+    "coinTypeA": "0xde2d3e02ba60b806f81ee9220be2a34932a513fe8d7f553167649e95de21c066::reap_token::REAP_TOKEN",
+    "coinTypeB": "0x2::sui::SUI",
+    "coinAmountA": "13525314100338052",
+    "coinAmountB": "108236272010",
+    "current_sqrt_price": "83246165012422916",
+    "current_tick_index": -108023,
+    "fee_growth_global_a": "431643930047952744858",
+    "fee_growth_global_b": "282094543157323576",
+    "fee_protocol_coin_a": "33058814158784",
+    "fee_protocol_coin_b": "1508278199",
+    "fee_rate": "10000",
+    "is_pause": false,
+    "liquidity": "10775788497233",
+    "tickSpacing": 200,
+    "currentTickIndex": -108023,
+    "currentPrice": "0.00002036521625255313484761352847552564408768753754583308969041481996",
+    "currentSqrtPrice": "83246165012422916",
+    "usdPoolAmount": "859.4481695454828943576502088563160422185382339156692549604586136"
+  }
+]

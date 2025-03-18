@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0x2f47d887c4ca1640c48946676dc3ccb40025cdb0aa52f21d6b043568a7c39ffe",
+    "poolType": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb::pool::Pool<0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI, 0x2::sui::SUI>",
+    "poolName": "MEMEFI-SUI[200]",
+    "poolNameUnique": "MEMEFI-SUI[200]",
+    "coinTypeA": "0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI",
+    "coinTypeB": "0x2::sui::SUI",
+    "coinAmountA": "138187462458622215",
+    "coinAmountB": "73914577340684",
+    "current_sqrt_price": "395299325503250248",
+    "current_tick_index": -76864,
+    "fee_growth_global_a": "219496271374929151065",
+    "fee_growth_global_b": "185394218759095647289",
+    "fee_protocol_coin_a": "242177543389567",
+    "fee_protocol_coin_b": "109402888885",
+    "fee_rate": "10000",
+    "is_pause": false,
+    "liquidity": "2725658436321037",
+    "tickSpacing": 200,
+    "currentTickIndex": -76864,
+    "currentPrice": "0.0004592114430061859603013048645865814973285038525552670481154646539",
+    "currentSqrtPrice": "395299325503250248",
+    "usdPoolAmount": "307712.9246949431683495658778833021329000676968232150762379729562"
+  }
+]

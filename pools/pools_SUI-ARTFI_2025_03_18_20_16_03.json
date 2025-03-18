@@ -1,0 +1,26 @@
+[
+  {
+    "poolAddress": "0x1b8c2ba8c68ede6db23c7ac528acac6df527f6f522780c891f99fb3970d6370f",
+    "poolType": "0x1eabed72c53feb3805120a081dc15963c204dc8d091542592abaf7a35689b2fb::pool::Pool<0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI, 0x2::sui::SUI>",
+    "poolName": "ARTFI-SUI[200]",
+    "poolNameUnique": "ARTFI-SUI[200]",
+    "coinTypeA": "0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI",
+    "coinTypeB": "0x2::sui::SUI",
+    "coinAmountA": "46627652480581",
+    "coinAmountB": "75984033100",
+    "current_sqrt_price": "1061148339317300452",
+    "current_tick_index": -57114,
+    "fee_growth_global_a": "111589417949990992839",
+    "fee_growth_global_b": "668187625786024706",
+    "fee_protocol_coin_a": "1010666742975",
+    "fee_protocol_coin_b": "3376388757",
+    "fee_rate": "10000",
+    "is_pause": false,
+    "liquidity": "3176182744755",
+    "tickSpacing": 200,
+    "currentTickIndex": -57114,
+    "currentPrice": "0.003309121798537062810214199420269872386097852835724090501577695351",
+    "currentSqrtPrice": "1061148339317300452",
+    "usdPoolAmount": "515.8285761173469946101918172663899811432547289864121327949841823"
+  }
+]
